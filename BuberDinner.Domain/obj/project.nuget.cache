@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mh+lTHtRSwsF9qKnleieUoFsaDZS3Ub8X1JWC+urAZU3Bzgu0l9tKz18cXuiYBKEaYE+HwXYyyosZf5BOfR8cw==",
+  "success": true,
+  "projectFilePath": "/Volumes/External HD/Repos/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/ctrujillo/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512",
+    "/Users/ctrujillo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/ctrujillo/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

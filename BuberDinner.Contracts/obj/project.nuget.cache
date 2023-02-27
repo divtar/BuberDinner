@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oI5P6NKITC7GQJ3HOrCyXJb+Vx2Ekmxx47ig5zTX5H9XiV1ldk9pEHzoBfiinXUv62ATcp5Bv0cMM4XKenaDMg==",
+  "success": true,
+  "projectFilePath": "/Volumes/External HD/Repos/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/ctrujillo/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/ctrujillo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
